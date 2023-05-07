@@ -1,4 +1,4 @@
-Scribbler-Project!
+ScriBBler is an online platform for collaborative writing that enables its users to generate, share, and modify textual content in real-time. The latest web technologies have been utilized to develop ScriBBler, which offers a smooth and straightforward interface, suitable for writers with varying degrees of proficiency. ScriBBler provides a variety of features, including version control, comment functionality, and integrated publishing options, making it an ideal platform for writers, editors, and content creators who want to simplify their work process and team up with others to achieve a more creative and efficient outcome.
 
 
 ![Home Page](https://user-images.githubusercontent.com/115175587/236687749-b06531e1-ae3a-409d-832b-9860a1ea0364.png)
