@@ -1,7 +1,7 @@
 Scribbler-Project!
 ![Home Page](https://user-images.githubusercontent.com/115175587/236687749-b06531e1-ae3a-409d-832b-9860a1ea0364.png)
-![Sign up Page](https://user-images.githubusercontent.com/115175587/236687772-61a273b4-2b12-4aee-abbb-88ccf0326bdf.png)
-![Sign in Page](https://user-images.githubusercontent.com/115175587/236687778-3ebd6f87-09cc-4d07-bd29-bf471974d5fa.png)
+![Sign up Page](https://user-images.githubusercontent.com/115175587/236687986-46c46189-6adb-49e9-8f25-632042a76b34.png)
+![Sign in Page](https://user-images.githubusercontent.com/115175587/236687994-4a2387d0-8510-4901-b149-87e4acb5489f.png)
 ![Create post page](https://user-images.githubusercontent.com/115175587/236687795-4babcf7c-2ae4-4007-8c76-c3a5a75a09ec.png)
 ![All post page](https://user-images.githubusercontent.com/115175587/236687839-0437504f-3422-4e30-8e63-f9e154a7899b.png)
 ![Post page](https://user-images.githubusercontent.com/115175587/236687848-5b73e51b-000a-47e5-9e4d-1c0f10f141ba.png)
